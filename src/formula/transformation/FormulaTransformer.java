@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 
+import static formula.transformation.utility.FormulaBuilder.add;
 import static formula.transformation.utility.FormulaBuilder.arg;
 import static formula.transformation.utility.FormulaBuilder.constant;
 import static formula.transformation.utility.FormulaBuilder.div;
@@ -47,6 +48,9 @@ public class FormulaTransformer {
 
         Equalizer power = eq(arg("P"), div(arg("W"), arg("t")));
         formulas.put(Equation.POWER, power);
+
+        Equalizer perimeter = eq(arg("O"), mul(constant(4),add(add(arg("a"), arg("b")), arg("c"))));
+        formulas.put(Equation.PERIMETER, perimeter);
     }
 
     public Map<Equation, Equalizer> getFormulas() {

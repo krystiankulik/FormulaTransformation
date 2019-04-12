@@ -14,7 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("Formula Transformation");
         primaryStage.setScene(new Scene(root, 1200, 900));
         root.getStylesheets().add(getClass().getResource("styles.css").toExternalForm());
-        //primaryStage.setResizable(false);
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
 

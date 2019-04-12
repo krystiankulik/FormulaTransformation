@@ -8,5 +8,6 @@ public enum Equation {
     GRAVITY_FORCE,
     UNIFORM_MOTION,
     WORK,
-    POWER
+    POWER,
+    PERIMETER
 }

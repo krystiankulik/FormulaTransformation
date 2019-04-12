@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/formula/transformation/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formula/transformation/Equation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/formulaImage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/formulaImage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/styles.css" afterDir="false" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,13 +69,13 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.29947916">
+    <splitter split-orientation="horizontal" split-proportion="0.7804878">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/gui/Controller.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="44">
+                <state relative-caret-position="-220">
                   <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -77,11 +84,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/gui/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="836">
-                  <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+                <state relative-caret-position="550">
+                  <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -89,8 +96,8 @@
           <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/gui/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+                <state relative-caret-position="352">
+                  <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -98,7 +105,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="true">
+          <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/gui/sample.fxml">
               <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
               <provider editor-type-id="text-editor">
@@ -113,6 +120,24 @@
               <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
+          <file leaf-file-name="Formula.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formula.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="518">
+                  <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Formulable.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formulable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="bg.jpg" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/gui/bg.jpg">
               <provider selected="true" editor-type-id="images" />
@@ -121,8 +146,8 @@
           <file leaf-file-name="FormulaTransformer.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2662">
-                  <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
+                <state relative-caret-position="319">
+                  <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -160,8 +185,8 @@
           <file leaf-file-name="FormulaTransformer.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="596">
-                  <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+                <state relative-caret-position="222">
+                  <caret line="32" selection-start-line="32" selection-end-line="32" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -188,8 +213,8 @@
           <file leaf-file-name="Formulable.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formulable.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="44">
-                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+                <state relative-caret-position="132">
+                  <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
                 </state>
               </provider>
             </entry>
@@ -197,8 +222,8 @@
           <file leaf-file-name="Equation.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/formula/transformation/Equation.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+                <state relative-caret-position="242">
+                  <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -224,6 +249,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -235,12 +263,12 @@
         <option value="$PROJECT_DIR$/src/formula/transformation/utility/EquationTransformer.java" />
         <option value="$PROJECT_DIR$/src/formula/transformation/Formula.java" />
         <option value="$PROJECT_DIR$/src/formula/transformation/styles.css" />
-        <option value="$PROJECT_DIR$/src/gui/Main.java" />
         <option value="$PROJECT_DIR$/src/gui/Controller.java" />
         <option value="$PROJECT_DIR$/src/gui/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/gui/styles.css" />
+        <option value="$PROJECT_DIR$/src/gui/Main.java" />
         <option value="$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java" />
         <option value="$PROJECT_DIR$/src/formula/transformation/Equation.java" />
+        <option value="$PROJECT_DIR$/src/gui/styles.css" />
       </list>
     </option>
   </component>
@@ -255,10 +283,11 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="399" />
+    <option name="x" value="42" />
     <option name="width" value="1593" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -290,6 +319,27 @@
               <item name="FormulaTransformationDesktop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="transformation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FormulaTransformationDesktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FormulaTransformationDesktop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="transformation" type="462c0819:PsiDirectoryNode" />
+              <item name="operand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FormulaTransformationDesktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FormulaTransformationDesktop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="transformation" type="462c0819:PsiDirectoryNode" />
+              <item name="operator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FormulaTransformationDesktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FormulaTransformationDesktop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="transformation" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FormulaTransformationDesktop" type="b2602c69:ProjectViewProjectNode" />
@@ -468,15 +518,15 @@
       <workItem from="1555017421966" duration="3334000" />
       <workItem from="1555057000961" duration="11198000" />
       <workItem from="1555075826355" duration="572000" />
-      <workItem from="1555084071666" duration="3353000" />
+      <workItem from="1555084071666" duration="4383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23423000" />
+    <option name="totallyTimeSpent" value="24453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-414" y="31" width="1940" height="1100" extended-state="0" />
+    <frame x="42" y="0" width="1593" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -490,18 +540,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.16651905" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893288" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18297872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2243966" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.07484408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.1933472" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.17161717" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="JetGradle" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -876,13 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/formula/transformation/Calculable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -890,28 +933,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/formulas.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/bg.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -933,15 +956,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/styles.css">
+    <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formula.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state relative-caret-position="518">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/formulaImage.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/formula/transformation/Formulable.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -949,6 +989,26 @@
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formula/transformation/Equation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/formulaImage.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/sample.fxml">
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
@@ -958,20 +1018,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/formula/transformation/FormulaTransformer.java">
+    <entry file="file://$PROJECT_DIR$/src/gui/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/formula/transformation/Equation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="550">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
