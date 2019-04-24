@@ -27,9 +27,6 @@ public class FormulaTransformer {
         Equalizer massUsingDensity = eq(arg("m"), mul(arg("V"), arg("d")));
         formulas.put(Equation.MASS_USING_DENSITY, massUsingDensity);
 
-        Equalizer sphereVolume =
-                eq(arg("V"), mul(mul(constant(4.0 / 3.0), constant(3.14)), pow(arg("r"), constant(3))));
-        formulas.put(Equation.SPHERE_VOLUME, sphereVolume);
 
         Equalizer potentialEnergy = eq(arg("Ep"), mul(arg("m"), mul(arg("g"), arg("h"))));
         formulas.put(Equation.POTENTIAL_ENERGY, potentialEnergy);
@@ -49,8 +46,11 @@ public class FormulaTransformer {
         Equalizer power = eq(arg("P"), div(arg("W"), arg("t")));
         formulas.put(Equation.POWER, power);
 
-        Equalizer perimeter = eq(arg("O"), mul(constant(4),add(add(arg("a"), arg("b")), arg("c"))));
+        Equalizer perimeter = eq(arg("O"), mul(constant(4),add(add(arg("a"), arg("b")), arg("h"))));
         formulas.put(Equation.PERIMETER, perimeter);
+
+        Equalizer volume = eq(arg("V"), mul(arg("a"), mul(arg("b"), arg("h"))));
+        formulas.put(Equation.VOLUME, volume);
     }
 
     public Map<Equation, Equalizer> getFormulas() {
